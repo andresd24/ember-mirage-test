@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cf8befc-ac4e-451d-b938-40b09ae7a145" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mirage.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/adapters/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/posts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/users.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/posts.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/users.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mirage/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mirage/factories/users.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mirage/models/post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mirage/models/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mirage/scenarios/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mirage/serializers/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/adapters/application-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/models/post-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/routes/application-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/routes/posts-test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/router.js" afterPath="$PROJECT_DIR$/app/router.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/application.hbs" afterPath="$PROJECT_DIR$/app/templates/application.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mirage/factories/posts.js" afterPath="$PROJECT_DIR$/mirage/factories/posts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mirage/fixtures/posts.js" afterPath="$PROJECT_DIR$/mirage/fixtures/posts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/helpers/destroy-app.js" afterPath="$PROJECT_DIR$/tests/helpers/destroy-app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -88,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.hbs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.hbs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="150">
+              <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -128,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="posts.hbs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="posts.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/posts.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -179,9 +151,9 @@
         <option value="$PROJECT_DIR$/app/routes/users.js" />
         <option value="$PROJECT_DIR$/app/routes/application.js" />
         <option value="$PROJECT_DIR$/app/router.js" />
-        <option value="$PROJECT_DIR$/app/templates/application.hbs" />
         <option value="$PROJECT_DIR$/app/templates/posts.hbs" />
         <option value="$PROJECT_DIR$/app/templates/users.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/application.hbs" />
       </list>
     </option>
   </component>
@@ -441,12 +413,12 @@
       <option name="presentableId" value="Default" />
       <updated>1495459458465</updated>
       <workItem from="1495459459565" duration="1274000" />
-      <workItem from="1495463886353" duration="2857000" />
+      <workItem from="1495463886353" duration="3013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4131000" />
+    <option name="totallyTimeSpent" value="4287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="79" y="55" width="1332" height="754" extended-state="0" />
@@ -740,10 +712,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
+    <entry file="file://$PROJECT_DIR$/app/templates/posts.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="15">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -756,10 +728,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/posts.hbs">
+    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="150">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
           <folding />
         </state>
       </provider>
